@@ -1,4 +1,6 @@
 spring:
+  profiles:
+    include: ecc
   devtools:
     livereload:
       enabled: true
